@@ -24,7 +24,7 @@ Ideal para proyectos de verificación o automatización documental, siempre resp
 
 ### Endpoint
 
-GET 'renaper/<dni>/<genero>'`
+GET 'renaper/{dni}/{genero}'
 
 **Parámetros:**
 
